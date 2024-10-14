@@ -1,4 +1,4 @@
-package com.humuson.test.AppApplication;
+package com.humuson.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
